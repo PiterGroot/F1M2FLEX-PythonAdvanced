@@ -1,0 +1,10 @@
+Game die ik zou willen maken: Astroids van atari
+
+Eventuele veranderingen / aanpassingen
+_________________________________________________________
+- misschien met meer enemies
+- schip upgrades?
+- bewegende ruimte achtergrond
+- als het lukt een eigen sound effects gebruiken of maken
+_________________________________________________________
+
