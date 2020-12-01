@@ -15,3 +15,6 @@ exampleClassInstance = exampleClass("maandag 30")
 exampleClassInstance.giveDate()
 
 dontClose = input()
+
+#MINIMUM EIS OPDRACHT
+#ZIE MAIN.PY VOOR DE EXTRA OPDRACHT 
